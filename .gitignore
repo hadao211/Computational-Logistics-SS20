@@ -1,7 +1,7 @@
 *.pdf
 *.zip
 *.txt
-*.xlsx
-*.xls
+#*.xlsx
+#*.xls
 /**/Data\ Set*/*
 .ipynb_checkpoints
