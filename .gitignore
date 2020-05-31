@@ -4,3 +4,4 @@
 *.xlsx
 *.xls
 /**/Data\ Set*/*
+/**/.ipynb_checkpoints/*
