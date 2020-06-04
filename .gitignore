@@ -3,6 +3,7 @@
 *.txt
 #*.xlsx
 #*.xls
+*.xml
 /**/Data\ Set*/*
 /**/.ipynb_checkpoints*/*
 .ipynb_checkpoints
