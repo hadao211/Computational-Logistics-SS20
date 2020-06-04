@@ -4,5 +4,5 @@
 #*.xlsx
 #*.xls
 /**/Data\ Set*/*
-/**/.ipynb_checkpoints*/*
-ipynb_checkpoints
+#/**/.ipynb_checkpoints*/*
+#ipynb_checkpoints
